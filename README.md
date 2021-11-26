@@ -1,4 +1,4 @@
-# GraphColouring
+# graph-colouring
 Implementation of a Greedy graph colouring and visualisation using tkinter. Simply run the python code, which will open a tkinter window with which the user can interact.
 
 In both versions, the user can create a graph using the "draw vertex", "delete vertex", "draw edge" and "delete edge" button. To reset the canvas, click reset. The graph can then be coloured with a greedy colouring using the "colouring button". 
