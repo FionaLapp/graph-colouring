@@ -10,4 +10,4 @@ In version 1, the colouring button simply presents the user with a completed gre
 In version 2, the user can step through the colouring process vertex by vertex, allowing them to gain further understanding of greedy colouring using largest degree ordering
 
 ## Nota Bene
-I wrote this a while ago when I knew even less about coding ettiquette than I do now, so bon appetit
+I wrote this a while ago when I knew even less about coding ettiquette than I do now (and nothing about git), so bon appetit
